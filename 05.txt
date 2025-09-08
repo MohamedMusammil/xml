@@ -1,0 +1,9 @@
+<Graph>
+    <node id="n1">
+        <label>A</label>
+    </node>
+    <node id="n2">
+        <label>B</label>
+    </node>
+    <edge source="n1" target="n2" />
+</Graph>
