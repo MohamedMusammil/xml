@@ -1,0 +1,25 @@
+<Cart>
+<Item itemid="001" quantity="3">
+	<Name>musammil</Name>
+	<Price>100$</Price>
+	<Category>food</Category>
+</Item>
+<Item itemid="002" quantity="5"></Item>
+	<Name>musthak</Name>
+	<Price>50$</Price>
+	<Category>food</Category>
+</Item>
+<Item itemid="003" quantity="8">
+	<Name>nuha</Name>
+	<Price>150$</Price>
+	<Category>food</Category>
+</Item>
+<Customer membership="gold">
+	<Shippingaddress>
+		<Street>kandy</Street>
+		<City>kandy</City>
+		<Zip>60300</Zip>
+		<Country>srilanka</Country.
+	</Shippingaddress>
+</Customer>
+</Cart>

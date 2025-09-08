@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bankcustomers>
+	<Customer id="001">
+		<Name>musammil</Name>
+		<Account>18425352456</Account>
+		<Phone>0764508709</Phone>
+		<Email>musammil@gmail.com</Email>
+	</Customer>
+	<Customer id="002">
+		<Name>musammil</Name>
+		<Account>18425352456</Account>
+		<Phone>0764508709</Phone>
+		<Email>musammil02@gmail.com</Email>
+	</Customer>
+	<Customer id="003">
+		<Name>musammil</Name>
+		<Account>18425352456</Account>
+		<Phone>0764508709</Phone>
+		<Email>musammil046@gmail.com</Email>
+	</Customer>
+</Bankcustomers>

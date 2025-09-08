@@ -1,0 +1,17 @@
+<Publications>
+	<Proceedings>
+		<Proceeding>
+			<Reference>2021541251</Reference>
+			<Article id="001" />
+		</Proceeding>
+	</Proceedings>
+	<Journal>
+		<Name>John</Name>
+		<Volume>202</Volume>
+		<ArticleTitle>Potter</ArticleTitle>
+	</Journal>
+	<Author h-index="c2f">
+		<Name>Musammil</Name>
+		<Email>musa23@gmail.com</Email>
+	</Author>
+</Publications>

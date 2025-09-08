@@ -1,0 +1,40 @@
+<Registrations>
+<Student studentid="ict024" year="20/21">
+	<Course credits="2" courseocde="cis22022">
+		<Title></Title>
+		<Instructor>abcd</Instructor>
+		<Schedule>
+			<Day></Day>
+			<Time></Time>
+		</Schedule>
+	</Course>
+	<Course credits="2" courseocde="cis22022">
+		<Title></Title>
+		<Instructor>abcd</Instructor>
+		<Schedule>
+			<Day></Day>
+			<Time></Time>
+		</Schedule>
+	</Course>
+	
+</Student>
+<Student studentid="ict024" year="20/21">
+	<Course credits="2" courseocde="cis22022">
+		<Title></Title>
+		<Instructor>abcd</Instructor>
+		<Schedule>
+			<Day></Day>
+			<Time></Time>
+		</Schedule>
+	</Course>
+	<Course credits="2" courseocde="cis22022">
+		<Title></Title>
+		<Instructor>abcd</Instructor>
+		<Schedule>
+			<Day></Day>
+			<Time></Time>
+		</Schedule>
+	</Course>
+	
+</Student>
+</Registrations>
